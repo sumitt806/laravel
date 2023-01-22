@@ -17,8 +17,8 @@ public_html/storage
 public_html/hot
 
 storage/*.key
-.env
-.htaccess
+# .env
+# .htaccess
 Homestead.yaml
 Homestead.json
 /.vagrant
